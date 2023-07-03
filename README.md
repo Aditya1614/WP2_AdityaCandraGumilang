@@ -1,1 +1,3 @@
-# WP2_Perpus_M_Adam_Raya
+# WP2_AdityaCandraGumilang
+
+This repo is just for my college assessment
